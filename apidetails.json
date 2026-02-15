@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "jaxtina",
+  "private_key_id": "[Value Key]",
+  "private_key": "[Value Key]",
+  "client_email": "jaxtinaenglish@jaxtina.iam.gserviceaccount.com",
+  "client_id": "105884483058782252904",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jaxtinaenglish%40jaxtina.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
